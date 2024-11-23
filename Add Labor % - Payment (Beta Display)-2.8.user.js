@@ -70,7 +70,7 @@
         }
 
         container.innerHTML = `
-            <strong>Beta Labor %:</strong><br>
+            <strong>Beta Labor Test %:</strong><br>
             ${laborPercentage}%
         `;
     }
